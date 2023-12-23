@@ -1,2 +1,3 @@
-# bhavesh-
-this is my first repository
+# bhavesh
+this is my first repository.
+Auther- Bhavesh Patil
